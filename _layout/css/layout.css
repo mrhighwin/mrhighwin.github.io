@@ -602,7 +602,7 @@
     /* Isotope */
 	
 	.portfolio-items {
-		margin: 65px 0;
+		margin: 2px 0;
 		list-style: none; 
 	}
 	
@@ -612,7 +612,7 @@
 		-webkit-box-sizing: border-box;
 		   -moz-box-sizing: border-box;
 				box-sizing: border-box;
-		padding: 15px;
+		padding: 5px;
 	}
    
     /* Portfolio Item */
@@ -994,7 +994,7 @@
 		.portfolio-items li {
 			float: none;
 			width: 100%;
-			padding: 15px 0;
+			padding: 5px 0;
 		}
 		
 		.portfolio-filter ul li { 
@@ -1063,4 +1063,8 @@
 /* Custom on ids*/
 .img-size-limit {
 	width: 150px;
+}
+
+.img-shadow{
+	 box-shadow: 5px 5px 5px #888888;
 }
